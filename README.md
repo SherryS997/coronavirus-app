@@ -1,6 +1,8 @@
 # Coronavirus App
 An app, built in flutter, showing the current covid stats, but the api no longer works.
 
-| One | Two | Three |
-| ... | ... | ..... |
-| ![](/images/1.png) | ![](/images/2.png) | ![](/images/3.png) |
+<p float="left">
+  <img src="/images/1.png" width="100" />
+  <img src="/images/2.png" width="100" /> 
+  <img src="/images/3.png" width="100" />
+</p>
